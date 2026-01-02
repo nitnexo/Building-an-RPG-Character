@@ -1,4 +1,5 @@
 # Building-an-RPG-Character
+https://www.freecodecamp.org/learn
 A simple Python lab that can help you get better at Python by making a character creation code for an Role-Playing-Game
 
 #Objective
